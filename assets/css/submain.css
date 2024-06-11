@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    background-color: #0c0c0c;
+    font-size: 14px;
+    line-height: 1.6;
+    font-family: "Montserrat",sans-serif;
+    color: #fff;
+}
+
+.container {
+    overflow: hidden;
+    position: relative;
+    width: 1440px;
+    max-width: 90%;
+    margin: 0 auto;   
+}
+
+.header {
+    margin: 8px 0 0 0;;
+    display: flex;
+    width: 100%;
+    height: 70px;
+    position: absolute;
+}
+
+.header-logo {
+    display: flex;
+    margin-left: 10px;
+    text-decoration: none;
+    color: #fff;
+}
+.header-logo img {
+    height: 50%;
+}
+
+.header-logo p {
+    margin: 8px 0 0 10px;
+    font-size: 16px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.main_header {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 30px;
+    font-weight: 600;
+    
+
+}
+
+.workshop {
+    background-color: rgba(149, 149, 149, 0.088);
+    font-size: 16px;
+    display: flex;
+    width: 70%;
+    justify-content: space-between;
+    margin: 50px auto;
+    border-radius: 40px;
+}
+
+.workshop-item {
+    height: 70vh;
+    flex: 1;
+    position: relative;
+}
+
+.image {
+    position: absolute;
+    width: 85%;
+    height: 90%;
+    background-size: cover;
+    border-radius: 40px;
+    padding: 15px;
+    align-items: center;
+    margin: 20px;
+}
+
+.overlay {
+    padding: 15px;
+    position: absolute;
+    width: 85%;
+    height: 90%;
+    display: flex;
+    flex-direction: column; 
+    transition: all 0.4s;
+    border-radius: 40px;
+    margin: 20px;
+    overflow:scroll;
+}
+
+.overlay .text {
+    padding: 10px;
+    overflow: hidden;
+}
+
+.workshop-item:hover .overlay {
+    backdrop-filter: blur(7px);
+  }
+
+  .workshop-item h3 {
+    font-size: 20px;
+    font-weight: 700;
+    color: #fff;
+  }
+
+.workshop-item p {
+    font-size: 18px;
+    font-weight: 400;
+    color: #fff;
+}
