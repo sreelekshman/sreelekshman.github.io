@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 body {
-    background-color: #0c0c0c;
+    background: url('../img/background.webp');
     font-size: 14px;
     line-height: 1.6;
     font-family: "Montserrat",sans-serif;
@@ -140,7 +140,8 @@ body {
     
 }
 
-@media (max-width: 768px) {
+@media (max-width: 768px), (max-height: 710px) {
+
     .main_header{
         margin-top: 70px;
         font-size: 25px;
