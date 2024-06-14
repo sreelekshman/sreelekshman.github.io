@@ -50,7 +50,7 @@ body {
 
 }
 
-.workshop {
+.listing {
     background-color: rgba(149, 149, 149, 0.088);
     font-size: 16px;
     display: flex;
@@ -61,7 +61,7 @@ body {
     overflow: auto;
 }
 
-.workshop-item {
+.list-item {
     height: 70vh;
     flex: 1;
     position: relative;
@@ -96,33 +96,33 @@ body {
     overflow: hidden;
 }
 
-.workshop-item:hover .overlay {
+.list-item:hover .overlay {
     backdrop-filter: blur(7px);
   }
 
-  .workshop-item h3 {
+  .list-item h3 {
     font-size: 20px;
     font-weight: 700;
     color: #fff;
   }
 
-.workshop-item p {
+.list-item p {
     font-size: 18px;
     font-weight: 400;
     color: #fff;
 }
 
-.workshop-responsive {
+.listing-responsive {
     display: none;
 }
 
 @media (max-width: 1050px){
-    .workshop {
+    .listing {
         background-color: rgba(0, 0, 0, 0);
         width: 100%;
     }
 
-    .workshop-item {
+    .listing-item {
         text-align: justify;
     }
     
@@ -146,26 +146,26 @@ body {
         margin-top: 70px;
         font-size: 25px;
     }
-    .workshop {
+    .listing {
         display: none;
     }
-    .workshop-responsive{
+    .listing-responsive{
         display: flex;
         flex-direction: column;
     }
 
-    .workshop-item {
+    .list-item {
         padding: 0px;
         height: auto;
         margin: 20px;
     }
 
-    .workshop-item h3 {
+    .list-item h3 {
         text-align: center;
         font-size: 20px;
         font-weight: 550;
     }
-    .workshop-item li {
+    .list-item li {
         font-size: 15px;
         font-weight: 400;
     }
