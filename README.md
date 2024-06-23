@@ -1,18 +1,10 @@
-# [Global: HTML5 website template](http://buckymaler.com/global)
+# About Me
+Hi there! I'm Sreelekshman , a Data Science student with a passion for software and data.<br>I am currently working on image vision and natural language processing models.<br>I love exploring new technologies and finding creative solutions to complex problems.
+ 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sreelekshman&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sreelekshman&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sreelekshman&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### [Featured on Freebiesbug](http://freebiesbug.com/psd-freebies/global-futuristic-one-page-portfolio-psd-html/)
-
-Global is a modern and sleek website template crafted for professionals in the creative industry. Global can serve as a single page portfolio or be easily modified to serve as the perfect beginning for a hip creative agency.
-
-The original PSD is included and was provided by [Sergey Melnik](https://www.behance.net/SergeyMelnik).
-
-This project was developed with HTML5, Sass, jQuery, and Hammer.js.
-
-Performance basics are covered: assets are minified into single CSS and JS files, and the images are optimized.
-
-[LIVE PREVIEW](http://buckymaler.com/global)
-
-## Misc:
-
-* Follow Bucky: [Twitter](https://twitter.com/BuckyMaler), [GitHub](https://github.com/BuckyMaler)
-* Follow Sergey: [Dribbble](https://dribbble.com/sergeymelnik), [Bēhance](https://www.behance.net/SergeyMelnik)
+ ## 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sree_lekshman) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sreelekshman) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SreelekshmanS)  
