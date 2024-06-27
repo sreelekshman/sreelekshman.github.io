@@ -102,6 +102,10 @@ body {
     overflow: hidden;
 }
 
+.text a{
+    color: #8db1ff;
+}
+
 .list-item:hover .overlay {
     backdrop-filter: blur(7px);
   }
